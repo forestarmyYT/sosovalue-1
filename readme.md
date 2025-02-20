@@ -13,7 +13,7 @@ This bot automates the process of creating accounts and using referral codes for
 
 - Node.js v18.20.6 LTS [Download](https://nodejs.org/dist/v18.20.6/node-v18.20.6-x64.msi).
 - Soso Value Account [Soso](https://sosovalue.com/join/2UINHAWE).
-- 2Captcha Apikey [2Captcha](https://2captcha.com/).
+- 2Captcha Apikey [2Captcha](https://2captcha.com/?from=25086358).
 - Gmail Account.
 - How to get Password Email [Here](https://www.youtube.com/watch?v=_rAoQeKpEtM)
 
@@ -31,7 +31,7 @@ npm i xvfb
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/sosovalue-autoreff.git
+   git clone https://github.com/forestarmyYT/sosovalue-1.git
    cd sosovalue-autoreff
    ```
 
